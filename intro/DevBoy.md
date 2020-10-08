@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/DevBoy.jpg" height="400">
+<img src="img/Killua.jpg" height="400">
 
 <h1 align="center">Dev Boy</h1>
 
